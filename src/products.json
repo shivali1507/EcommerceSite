@@ -1,0 +1,89 @@
+[
+    {
+      "name": "Laptop 1",
+      "price": "$1000",
+      "picture": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXBwbGUlMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "SDD": "256GB",
+      "HDD": "1TB",
+      "OS": "MacOS"
+    },
+    {
+      "name": "Laptop 2",
+      "price": "$1500",
+      "picture": "https://startuppakistan.com.pk/wp-content/uploads/2021/06/Apple-Laptop.jpg",
+      "RAM": "16GB",
+      "HDD": "2TB",
+      "ScreenSize": "13 inches"
+    },
+    {
+      "name": "Laptop 3",
+      "price": "$999",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1qDeGXgWUL1yDXIjtrAr2pDj93oRDmAvqA&usqp=CAU",
+      "RAM": "8GB",
+      "SDD": "256GB",
+      "ScreenSize": "15.6 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 4",
+      "price": "$1299",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqWCAXD900r-_0n9mVufxYqg4Thcc9iEMTewloIVbrgI9Uf0vbsEsCTVGnwBqjT_zx-w&usqp=CAU",
+      "SDD": "512GB",
+      "OS": "Windows"
+    },
+    {
+      "name": "Laptop 5",
+      "price": "$899",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
+      "RAM": "8GB",
+      "SDD": "128GB",
+      "HDD": "500GB",
+      "ScreenSize": "14 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 6",
+      "price": "$1000",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAITcSjZJL5VueyRTLAh4DEPwsyuUpWeWLQ&usqp=CAU",
+      "RAM": "8GB",
+      "SDD": "256GB",
+      "HDD": "1TB",
+      "ScreenSize": "15 inches",
+      "OS": "Windows"
+    },
+    {
+      "name": "Laptop 7",
+      "price": "$1500",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsr-KRrW--vbEpLGylr7wGikw2z2UtHyJ0qQ&usqp=CAU",
+      "RAM": "16GB",
+      "HDD": "2TB"
+    },
+    {
+      "name": "Laptop 8",
+      "price": "$999",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRPhXA03a43-Fjsi5H3CljeH1uHlXmTDTJyBJ25hbaXLodenklCBfsxBBzPJuo-tP2aA&usqp=CAU",
+      "RAM": "8GB",
+      "SDD": "256GB",
+      "ScreenSize": "15.6 inches",
+      "OS": "Windows 10"
+    },
+    {
+      "name": "Laptop 9",
+      "price": "$1299",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJxw2u5y8pkCDg7Mp0g6hli1TLUfLcMUKeg&usqp=CAU",
+      "SDD": "512GB",
+      "ScreenSize": "13.3 inches"
+    },
+    {
+      "name": "Laptop 10",
+      "price": "$899",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kacBuvQ-PebJJ4csu_DDOHHkDX9q_MyV1NUKFrgGMgtrzC6L4Yu_aq-b_D83WbGkrNs&usqp=CAU",
+      "RAM": "8GB",
+      "SDD": "128GB",
+      "HDD": "500GB",
+      "ScreenSize": "14 inches",
+      "OS": "Windows 10"
+    }
+  ]
+  
+  
